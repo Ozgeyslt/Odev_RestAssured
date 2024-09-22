@@ -1,5 +1,5 @@
 ## Ödev
-- API: https://petstore.swagger.io/ adresinden kendi seçeceğiniz bir Endpoint'e REST-Assured kullanarak test yazınız. Ödevi GitHub ile teslim ediniz
+- API: https://petstore.swagger.io/ adresinden kendi seçeceğiniz bir Endpoint'e REST-Assured kullanarak test yazınız. Ödevi GitHub ile teslim ediniz.
 
 **Ödev adımları:**
 
